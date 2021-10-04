@@ -22,7 +22,7 @@ namespace Lucrarea01
             object answer = null;
             do
             {
-                answer = ReadValue("adauga produs?: ");
+                answer = ReadValue("adauga un produs?: ");
 
                 if (answer.Equals("y"))
                 {
